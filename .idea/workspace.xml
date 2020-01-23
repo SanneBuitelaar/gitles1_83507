@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3033517a-460d-4bab-bf1f-b542e7f44860" name="Default Changelist" comment="Eerste commit in PHPStorm">
-      <change afterPath="$PROJECT_DIR$/GITDemo/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GITDemo/new2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3033517a-460d-4bab-bf1f-b542e7f44860" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GITDemo/new2.html" beforeDir="false" afterPath="$PROJECT_DIR$/GITDemo/new2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GITDemo/new2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -122,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579791743934</updated>
-      <workItem from="1579791745756" duration="919000" />
+      <workItem from="1579791745756" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit in PHPStorm">
       <created>1579792157048</created>
@@ -131,11 +129,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579792157048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="versie 1 van about">
+      <created>1579792750672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579792750672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="919000" />
+    <option name="totallyTimeSpent" value="1021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,12 +156,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23663254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23663254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3294979" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49959117" weight="0.3294979" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3294979" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49959117" visible="true" weight="0.3294979" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5004088" side_tool="true" weight="0.3294979" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -202,7 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eerste commit in PHPStorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eerste commit in PHPStorm" />
+    <MESSAGE value="versie 1 van about" />
+    <option name="LAST_COMMIT_MESSAGE" value="versie 1 van about" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GITDemo/index.html">
@@ -221,8 +227,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GITDemo/new2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
